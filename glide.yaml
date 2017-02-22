@@ -1,0 +1,4 @@
+package: github.com/jkunii/json-going
+import:
+- package: github.com/dinever/golf
+- package: gopkg.in/redis.v5
